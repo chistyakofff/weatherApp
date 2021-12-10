@@ -27,7 +27,7 @@ const weatherOptions = {
         iconName: 'cloud-drizzle',
         gradient: ['#141E30', '#243B55'],
         title: 'Морось',
-        subtitle: 'Да не мороси ты, ептыть',
+        subtitle: 'Моросит',
     },
     Clear: {
         iconName: 'sunny',
